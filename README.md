@@ -1,2 +1,3 @@
 # Aprendizado-de-Maquina
-  *  Renomear as pastas para o nome dos assuntos
+  *  Periodo 2019.1
+  * Professor Regis Pires Magalhães
